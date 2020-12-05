@@ -1,0 +1,7 @@
+# Paketler (paket boyutu - paket sayısı)
+1x1 5
+2x1 1
+# Araçlar (araç boyutu - araç maliyeti)
+4 x 2 5
+2 x 2 2
+2 x 2 2 
